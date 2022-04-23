@@ -1,6 +1,6 @@
 # Calculator
 
-<img width=40% src="Images/CalculatorImage.png" />
+<img width=20% src="Images/CalculatorImage.png" />
 
 ## Introduction
 This is a simple GUI, calculator application that I built in an attempt to excercise my Python and Tkinter capabilities.
